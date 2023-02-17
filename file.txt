@@ -3,3 +3,5 @@ hello demo file
 Demo for git
 
 next comit
+
+trying to merge with another branch after this comit
